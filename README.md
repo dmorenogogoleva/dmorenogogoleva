@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I work as frontend developer at the [online-cinema Okko](https://okko.tv) 🎬
+I work as frontend developer 💻
 
 Also, I organize a [meetup about node.js](https://nodeschool.io/spb) 📟
 
